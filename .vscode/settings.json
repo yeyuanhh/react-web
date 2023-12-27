@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/3d4be26a-cf6f-4f50-b785-b0e38f2ad16a/resourceGroups/weather-reco/providers/Microsoft.Web/sites/FinanceRecoBackUp",
+    "appService.deploySubpath": "."
+}
