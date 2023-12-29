@@ -1,0 +1,10 @@
+/* .news_tb>tbody>tr:nth-of-type(even)>*{
+   
+} */
+
+
+.nav-link {
+    /* padding-top: 0px;
+    padding-bottom: 0px; */
+    padding: 0;
+}
